@@ -1,0 +1,19 @@
+{
+  "name": "navicommit",
+  "version": "1.0.0",
+  "description": "This NPM package is meant to help us provide better commits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "commit",
+    "tool"
+  ],
+  "author": "Louis-Antonin Lesieur",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^13.0.0",
+    "inquirer": "^12.3.2"
+  }
+}
