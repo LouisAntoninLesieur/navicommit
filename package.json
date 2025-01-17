@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This NPM package is meant to help us provide better commits.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +13,9 @@
   ],
   "author": "Louis-Antonin Lesieur",
   "license": "MIT",
+  "bin": {
+    "navi": "index.js"
+  },
   "dependencies": {
     "commander": "^13.0.0",
     "inquirer": "^12.3.2"
