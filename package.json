@@ -1,6 +1,6 @@
 {
   "name": "navicommit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This NPM package is meant to help us provide better commits.",
   "main": "index.js",
   "type": "module",
