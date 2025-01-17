@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/h4BiMyZ.png" alt="POWERED WITH " width="800"/>
 
-*<span style="color:rgb(48, 65, 92)">**Navicommit**</span> is an NPM tool designed to help you write better commit messages.*
+*<span style="color:rgb(48, 65, 92)">**Navicommit**</span> is a CLI tool designed to help you write better commit messages.*
 
 ## Table of Contents
 
