@@ -57,14 +57,9 @@ navi c
 You can use <span style="color:rgb(48, 65, 92)">**Navicommit**</span> (without installing it) with npx:
 
 ```sh
-npx navi commit
+npx navicommit c
 ```
 
-or with the alias:
-
-```sh
-npx navi c
-```
 </details>
 
 <details>
